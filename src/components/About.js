@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Luke.
             <br className="hidden lg:inline-block" />Full Stack Software Engineer.
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-white-antique">
             Based out of Maryland with a passion for developing applications and solutions using a variety of the latest technologies and programming languages. 
           </p>
           <div className="flex justify-center">
@@ -20,7 +20,7 @@ export default function About() {
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-white-antiuqe bg-gray-light border-0 py-2 px-6 focus:outline-none hover:bg-blue-light hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-white-antique bg-gray-light border-0 py-2 px-6 focus:outline-none hover:bg-blue-light rounded text-lg">
               Personal Projects
             </a>
           </div>

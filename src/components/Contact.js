@@ -44,7 +44,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">
+              <p className="text-blue-light mt-1">
                 MD-372, <br />
                 Catonsville, MD 21228
               </p>
@@ -53,13 +53,13 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a className="text-blue-light leading-relaxed">
                 lsmaclean153@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">443-974-3330</p>
+              <p className="text-blue-light leading-relaxed">443-974-3330</p>
             </div>
           </div>
         </div>
@@ -71,11 +71,11 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Connect With Me
           </h2>
-          <p className="leading-relaxed mb-5">
-            Looking to hire a contractor or full time employee? I'd love to set up a time to chat!
+          <p className="leading-relaxed mb-5 text-white-antique">
+            Looking to hire a contractor or full time employee? I'd love to set up time to chat!
           </p>
           <div className="relative mb-4">
-            <label htmlFor="name" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="name" className="leading-7 text-sm text-white">
               Name
             </label>
             <input
@@ -88,7 +88,7 @@ export default function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label htmlFor="email" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="email" className="leading-7 text-sm text-white">
               Email
             </label>
             <input
@@ -103,7 +103,7 @@ export default function Contact() {
           <div className="relative mb-4">
             <label
               htmlFor="message"
-              className="leading-7 text-sm text-gray-400">
+              className="leading-7 text-sm text-white">
               Message
             </label>
             <textarea
