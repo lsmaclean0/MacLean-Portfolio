@@ -42,7 +42,7 @@ export const skills = [
   "React",
   "Go",
   "TypeScript",
-  "Aamazon Web Services"
+  "Amazon Web Services"
 ];
 
 // export const referals = [
