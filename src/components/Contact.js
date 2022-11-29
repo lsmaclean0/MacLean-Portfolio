@@ -72,7 +72,7 @@ export default function Contact() {
             Connect With Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Looking to hire a contractor or full time employee? I'd love to set up time to chat!
+            Looking to hire a contractor or full time employee? I'd love to set up a time to chat!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
