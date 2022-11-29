@@ -13,7 +13,7 @@ export const projects = [
     description:
       "My personal website, built with React and TailWind CSS. feel free to use any elements you like!",
     image: "./portfolio.png",
-    link: "https://github.com/lsmaclean0/MacLean-Portfolio",
+    link: "https://github.com/lsmaclean0/lsmaclean0.github.io",
   },
   {
     title: "ByteLion",

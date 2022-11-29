@@ -116,7 +116,7 @@ export default function Contact() {
           </div>
           <button
             type="submit"
-            className="text-white bg-jazzberry-jam border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+            className="text-white bg-blue-light border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
         </form>
