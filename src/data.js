@@ -4,32 +4,32 @@ export const projects = [
     subtitle: "Electron App",
     description:
       "Supported the Core team in building and designing the back-end of an Electron based application built with Go and Java Script.",
-    image: "https://plchldr.co/i/500x250",
+    image: "./Olive_Logo.jpeg",
     link: "https://oliveai.com/",
   },
   {
-    title: "Olive Helps",
-    subtitle: "Electron App",
+    title: "Portfolio",
+    subtitle: "Create React App",
     description:
-      "Supported the Core team in building and designing the back-end of an Electron based application built with Go and Java Script.",
-    image: "https://plchldr.co/i/500x250?bg=111111",
-    link: "https://oliveai.com/",
+      "My personal website, built with React and TailWind CSS. feel free to use any elements you like!",
+    image: "./portfolio.png",
+    link: "https://github.com/lsmaclean0/MacLean-Portfolio",
   },
   {
-    title: "Olive Helps",
-    subtitle: "Electron App",
+    title: "ByteLion",
+    subtitle: "Software Engineering",
     description:
-      "Supported the Core team in building and designing the back-end of an Electron based application built with Go and Java Script.",
-    image: "https://plchldr.co/i/500x250?fc=cc0000",
-    link: "https://oliveai.com/",
+      "Participated in the design and implementation of a large scale application using Java and the Spring Boot framework.",
+    image: "./ByteLion.png",
+    link: "https://technical.ly/software-development/olive-bytelion/",
   },
   {
-    title: "Olive Helps",
-    subtitle: "Electron App",
+    title: "API Development",
+    subtitle: "A Simple Java/Spring based API",
     description:
       "Supported the Core team in building and designing the back-end of an Electron based application built with Go and Java Script.",
-    image: "https://plchldr.co/i/500x250?text=hellodev.to",
-    link: "https://oliveai.com/",
+    image: "./Spring.png",
+    link: "https://github.com/lsmaclean0/PurpleCow",
   },
  
 ];
