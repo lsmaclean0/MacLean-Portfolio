@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "A Simple Java/Spring based API",
     description:
       "Supported the Core team in building and designing the back-end of an Electron based application built with Go and Java Script.",
-    image: "./Spring.png",
+    image: "./Component 2.png",
     link: "https://github.com/lsmaclean0/PurpleCow",
   },
  
