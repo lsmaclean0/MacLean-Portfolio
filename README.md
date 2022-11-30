@@ -1,7 +1,9 @@
 # TODO'S
 1. Make the skills a clickable link that takes the user to a list of projects using that skill.
 2. Create a custom domain no its no longer in the github format
-3. 
+3. Add an animation to show hover effect over "Projects" for those unfamiliar with the layout.
+4. set the hover effect to active at all times on Moblie devices.
+5. 
 
 
 
