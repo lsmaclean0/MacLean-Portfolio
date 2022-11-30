@@ -1,3 +1,10 @@
+# TODO'S
+1. Make the skills a clickable link that takes the user to a list of projects using that skill.
+2. Create a custom domain no its no longer in the github format
+3. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

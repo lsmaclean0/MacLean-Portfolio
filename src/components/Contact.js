@@ -59,7 +59,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="text-blue-light leading-relaxed">443-974-3330</p>
+              <p className="text-blue-light leading-relaxed">443-9XX-XXXX</p>
             </div>
           </div>
         </div>
